@@ -57,15 +57,8 @@ Maintain a switch-press counter inside an ISR and periodically transmit the coun
 
 ---
 
-## OUTPUT
-
-
-
-
-
-
-
-
+## LOGIC
+<img width="462" height="148" alt="image" src="https://github.com/user-attachments/assets/3879ac21-fdb7-47f6-82d4-b1c642ee37ed" />
 
 
 
